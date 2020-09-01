@@ -16,8 +16,8 @@
 - ⚡ Fun fact: 🤷‍♂️
 
 <details>
-    <summary>:Zap: github Stats</summary>
+    <summary>⚡ Github Stats</summary>
 
-    ![Shan's github stats](https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true)
+![Shan's github stats](https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true)
 
 </details>
