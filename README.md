@@ -17,7 +17,6 @@
 
 <details>
     <summary>⚡ Github Stats</summary>
-
-![Shan's github stats](https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true)
+<img src ="https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true" style=" box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 
 </details>
