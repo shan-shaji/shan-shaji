@@ -16,6 +16,4 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shan--shaji/)
 - ⚡ Fun fact: 🤷‍♂️
 
-![Shan's github stats](https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true
-
-
+![Shan's github stats](https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true)
