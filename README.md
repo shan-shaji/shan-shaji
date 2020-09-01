@@ -17,9 +17,7 @@
 - ⚡ Fun fact: 🤷‍♂️
 <p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shan-shaji&layout=compact)](https://github.com/shan-shaji/github-readme-stats)
-
-![Shan's github stats](https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shan-shaji&layout=compact)](https://github.com/shan-shaji/github-readme-stats)] ![Shan's github stats](https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true)
 
 </p>
 
