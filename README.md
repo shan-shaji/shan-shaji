@@ -6,7 +6,8 @@
 </a>
 </p>
 
-- 🔭 I’m currently working on **Nothing**
+<!-- - 🔭 I’m currently working on **Nothing** -->
+
 - 🌱 I’m currently learning **Flutter, React**
 - 👯 I’m looking to collaborate on **Hmm, Still looking**
 - 🤔 I’m looking for help with **React**
