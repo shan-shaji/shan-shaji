@@ -8,10 +8,10 @@
 
 <!-- - 🔭 I’m currently working on **Nothing** -->
 
-- 🌱 I’m currently learning **Flutter, React**
-- 👯 I’m looking to collaborate on **Hmm, Still looking**
+- 🌱 I’m currently learning **Flutter, React** :stuck_out_tongue_closed_eyes:
+- 👯 I’m looking to collaborate on **Hmm, Still looking** :grinning:
 - 🤔 I’m looking for help with **React**
-- 💬 Ask me about **HTML,CSS, JS, FLUTTER**
+- 💬 Ask me about **HTML,CSS, JS, FLUTTER** 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shan--shaji/)
 - ⚡ Fun fact: 🤷‍♂️
 
