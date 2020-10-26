@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shan Shaji</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shan Shaji </h1>
 <p align="center">
 
 <a href="https://medium.com/@shanshaji224" target="blank">
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Flutter, React** :stuck_out_tongue_closed_eyes:
 - 👯 I’m looking to collaborate on **Hmm, Still looking** :grinning:
 - 🤔 I’m looking for help with **React**
-- 💬 Ask me about **HTML,CSS, JS, FLUTTER** 
+- 💬 Ask me about **HTML,CSS, JS, FLUTTER**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shan--shaji/)
 - ⚡ Fun fact: 🤷‍♂️
 
@@ -20,3 +20,10 @@
 <img src ="https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true">
 
 </details>
+
+<!-- <details>
+<summary> 📊 This week I spent my time on </summary>
+
+
+
+</details> -->
