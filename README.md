@@ -21,9 +21,9 @@
 
 </details>
 
-<!-- <details>
+<details>
 <summary> 📊 This week I spent my time on </summary>
 
+[wakaTime status](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shan_shaji&hide_title=true&hide_border=true&langs_count=3)
 
-
-</details> -->
+</details>
