@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shan Shaji </h1>
 <p align="center">
 
-<a href="https://medium.com/@shanshaji224" target="blank">
+<a href="https://shan-shaji.medium.com/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shanshaji224" height="30" width="30" />
 </a>
 </p>
