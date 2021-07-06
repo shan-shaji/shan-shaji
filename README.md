@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Hmm, Still looking** :grinning:
 - 🤔 I’m looking for help with **React**
 - 💬 Ask me about **HTML,CSS, JS, FLUTTER**
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/shan-shaji)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shan-shaji)
 - ⚡ Fun fact: 🤷‍♂️
 
 <details>
