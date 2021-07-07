@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React** 
 - 👯 I’m looking to collaborate on **Hmm, Still looking** :grinning:
 - 🤔 I’m looking for help with **React**
-- 💬 Ask me about **JS, FLUTTER, EXPRESS, NODE JS, MONGODB**
+- 💬 Ask me about **JS, FLUTTER, EXPRESS, NODE JS**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shan-shaji)
 - ⚡ Fun fact: 🤷‍♂️
 
