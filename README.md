@@ -2,16 +2,16 @@
 <p align="center">
 
 <a href="https://shan-shaji.medium.com/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shanshaji224" height="30" width="30" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shan-shaji" height="30" width="30" />
 </a>
 </p>
 
 <!-- - 🔭 I’m currently working on **Nothing** -->
 
-- 🌱 I’m currently learning **Flutter, React** :stuck_out_tongue_closed_eyes:
+- 🌱 I’m currently learning **React** 
 - 👯 I’m looking to collaborate on **Hmm, Still looking** :grinning:
 - 🤔 I’m looking for help with **React**
-- 💬 Ask me about **HTML,CSS, JS, FLUTTER**
+- 💬 Ask me about **JS, FLUTTER, EXPRESS, NODE JS, MONGODB**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shan-shaji)
 - ⚡ Fun fact: 🤷‍♂️
 
