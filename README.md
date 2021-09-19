@@ -1,4 +1,6 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Shan Shaji! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<!-- <h2>नमस्ते (Namaste)🙏🏻, I'm Shan Shaji! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Shan;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>A Final Year Student and Software Engineer at <a href="http://www.arkroot.com/">Arkroot</a>
 </em></p>
