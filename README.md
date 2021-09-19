@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Shan Shaji! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.arkroot.com/">Arkroot</a>
+<p><em>A Final Year Student and Software Engineer at <a href="http://www.arkroot.com/">Arkroot</a>
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shan__shaji?style=flat)](https://twitter.com/intent/follow?screen_name=shan__shaji)
@@ -16,7 +16,7 @@
 const shan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Dart", "Python",],
-    askMeAbout: ["web dev", "tech", "app dev", "Designing"],
+    askMeAbout: ["web dev", "Tech", "app dev", "Designing"],
     technologies: {
         backEnd: {
             js: ["Node", "Express",],
