@@ -40,7 +40,79 @@ const shan = {
 
 ---
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 616 Contributions in the Year 2021
+ > 
+> 📦 450.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 77 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+🌆 Daytime    289 commits    ███████░░░░░░░░░░░░░░░░░░   30.29% 
+🌃 Evening    347 commits    █████████░░░░░░░░░░░░░░░░   36.37% 
+🌙 Night      210 commits    █████░░░░░░░░░░░░░░░░░░░░   22.01%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
+Tuesday      132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
+Wednesday    148 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
+Thursday     172 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
+Friday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+Saturday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
+Sunday       96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06%
+
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     31 repos            ██████████░░░░░░░░░░░░░░░   41.33% 
+HTML                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   22.67% 
+JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/shan-shaji/shan-shaji/master/charts/bar_graph.png) 
+
+
+ Last Updated on 19/09/2021
 <!--END_SECTION:waka-->
 
