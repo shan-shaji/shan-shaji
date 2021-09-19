@@ -1,29 +1,48 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shan Shaji </h1>
-<p align="center">
+<h2>नमस्ते (Namaste)🙏🏻, I'm Shan Shaji! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.arkroot.com/">Arkroot</a>
+</em></p>
 
-<a href="https://shan-shaji.medium.com/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shan-shaji" height="30" width="30" />
-</a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/shan__shaji?style=flat)](https://twitter.com/intent/follow?screen_name=shan__shaji)
+[![Linkedin: anmol](https://img.shields.io/badge/shan-shaji?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shan-shaji/)](https://www.linkedin.com/in/shan-shaji/)
+![GitHub followers](https://img.shields.io/github/followers/shan-shaji?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://shan-shaji.github.io/)](http://shan-shaji.github.io/)
+![](https://visitor-badge.glitch.me/badge?page_id=shan-shaji)
 
-<!-- - 🔭 I’m currently working on **Nothing** -->
 
-- 🌱 I’m currently learning **React** 
-- 👯 I’m looking to collaborate on **Hmm, Still looking** :grinning:
-- 🤔 I’m looking for help with **React**
-- 💬 Ask me about **JS, FLUTTER, EXPRESS, NODE JS**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shan-shaji)
-- ⚡ Fun fact: 🤷‍♂️
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<details>
-    <summary>⚡ Github Stats</summary>
-<img src ="https://github-readme-stats.vercel.app/api?username=shan-shaji&count_private=true&show_icons=true">
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Dart", "Python",],
+    askMeAbout: ["web dev", "tech", "app dev", "Designing"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express",],
+        },
+        mobileApp: {
+            hybrid: ["Android Development", "IOS Development"]
+        },
+        devOps: ["AWS"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase",]
+    },
+    architecture: {
+        frontEnd: ["MVVM Architecture", "Bloc Architecture",],
+        backEnd: ["MVC Architeture"]
+    },
+    currentFocus: "Backend and Flutter",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-</details>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<details>
-<summary> 📊 This week I spent my time on </summary>
+---
+<!--START_SECTION:waka-->
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shanshaji&hide_title=true&hide_border=true&langs_count=5)
 
-</details>
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
