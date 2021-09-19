@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const shan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Dart", "Python",],
     askMeAbout: ["web dev", "tech", "app dev", "Designing"],
@@ -33,7 +33,6 @@ const anmol = {
         backEnd: ["MVC Architeture"]
     },
     currentFocus: "Backend and Flutter",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
@@ -45,4 +44,3 @@ const anmol = {
 
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
