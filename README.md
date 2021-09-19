@@ -22,7 +22,7 @@ const shan = {
             js: ["Node", "Express",],
         },
         mobileApp: {
-            hybrid: ["Android Development", "IOS Development"]
+            hybrid: ["Android Development"]
         },
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase",]
