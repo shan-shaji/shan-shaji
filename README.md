@@ -26,7 +26,7 @@ const shan = {
         mobileApp: {
             hybrid: ["Android Development"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql",],
         misc: ["Firebase",]
     },
     architecture: {
