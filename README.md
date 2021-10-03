@@ -40,13 +40,13 @@ const shan = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 734 Contributions in the Year 2021
  > 
-> 📦 450.6 kB Used in GitHub's Storage 
+> 📦 450.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,6 +123,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shan-shaji/shan-shaji/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2021
+ Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
 
