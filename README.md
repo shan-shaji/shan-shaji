@@ -17,7 +17,7 @@
 const shan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Dart", "Python",],
-    askMeAbout: ["web dev", "Tech", "app dev", "Designing"],
+    askMeAbout: ["Web dev", "Tech", "App dev", "Designing"],
     technologies: {
         backEnd: {
             js: ["Node", "Express",],
@@ -25,14 +25,14 @@ const shan = {
         mobileApp: {
             hybrid: ["Flutter"]
         },
-        databases: ["mongo", "MySql",],
-        misc: ["Firebase",]
+        databases: ["Mongo", "MySql",],
+        misc: ["Firebase", "Analytics", "Cloud Functions"]
     },
     architecture: {
         frontEnd: ["MVVM Architecture", "Bloc Architecture",],
         backEnd: ["MVC Architeture"]
     },
-    currentFocus: "Backend and Flutter",
+    currentFocus: "Golang",
 };
 ```
 
