@@ -25,6 +25,7 @@ const shan = {
         mobileApp: {
             hybrid: ["Flutter"]
         },
+        devops: ["Docker", "Github Actions"]
         databases: ["Mongo", "MySql",],
         misc: ["Firebase", "Analytics", "Cloud Functions"]
     },
