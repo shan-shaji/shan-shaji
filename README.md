@@ -25,7 +25,6 @@ const shan = {
         mobileApp: {
             hybrid: ["Flutter"]
         },
-        devops: ["Docker", "Github Actions"]
         databases: ["Mongo", "MySql",],
         misc: ["Firebase", "Analytics", "Cloud Functions"]
     },
@@ -33,7 +32,9 @@ const shan = {
         frontEnd: ["MVVM Architecture", "Bloc Architecture",],
         backEnd: ["MVC Architeture"]
     },
-    currentFocus: "Golang",
+    currentFocus: {
+        language: "Golang",
+    }
 };
 ```
 
