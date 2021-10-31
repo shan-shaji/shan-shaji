@@ -42,7 +42,7 @@ const shan = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,7 +86,7 @@ Sunday       118 commits    ███░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Dart                     5 hrs 52 mins       █████████████░░░░░░░░░░░░   55.28% 
-TypeScript               3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.85% 
+TypeScript               3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.85% 
 YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
 JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
 XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
@@ -121,6 +121,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shan-shaji/shan-shaji/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
