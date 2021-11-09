@@ -48,7 +48,7 @@ const shan = {
 
 > 🏆 886 Contributions in the Year 2021
  > 
-> 📦 450.9 kB Used in GitHub's Storage 
+> 📦 451.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,6 +121,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shan-shaji/shan-shaji/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2021
+ Last Updated on 09/11/2021
 <!--END_SECTION:waka-->
 
