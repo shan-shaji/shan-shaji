@@ -34,7 +34,8 @@ const shan = {
     },
     currentFocus: {
         language: "Golang",
-    }
+    },
+    workingOn: "Doarun"
 };
 ```
 
