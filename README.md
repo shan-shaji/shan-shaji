@@ -33,7 +33,7 @@ const shan = {
         backEnd: ["MVC Architeture"]
     },
     currentFocus: {
-        language: "Golang",
+        language: ["Javascript", "Typescript"],
     },
     workingOn: "Doarun"
 };
