@@ -20,7 +20,7 @@ const shan = {
     askMeAbout: ["Web dev", "Tech", "App dev", "Designing"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express",],
+            js: ["Node JS", "Express",],
         },
         mobileApp: {
             hybrid: ["Flutter"]
