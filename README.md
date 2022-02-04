@@ -1,8 +1,7 @@
-<!-- <h2>नमस्ते (Namaste)🙏🏻, I'm Shan Shaji! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Shan;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>A Final Year Student and a Software Engineer. Loves to create magic with code 🧙‍♂️💙.</em></p>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<p>A final year student and a software engineer. Loves to create magic with code 🧙‍♂️💙.</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shan__shaji?style=flat)](https://twitter.com/intent/follow?screen_name=shan__shaji)
 [![Linkedin: anmol](https://img.shields.io/badge/shan-shaji?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shan-shaji/)](https://www.linkedin.com/in/shan-shaji/)
