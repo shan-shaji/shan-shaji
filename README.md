@@ -29,10 +29,10 @@ const shan = {
     },
     architecture: {
         frontEnd: ["MVVM Architecture", "Bloc Architecture",],
-        backEnd: ["MVC Architeture"]
+        backEnd: ["MVC Architecture"]
     },
     currentFocus: {
-        language: ["Javascript", "Typescript"],
+        language: ["Dart", "Javascript", "Typescript"],
     },
     workingOn: "Doarun"
 };
