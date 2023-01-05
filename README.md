@@ -13,11 +13,11 @@
 ```javascript
 const shan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Dart", "Python",],
+    code: ["Dart", "Javascript", "Typescript", "Python", "Golang"],
     askMeAbout: ["Web dev", "Tech", "App dev", "Designing"],
     technologies: {
         backEnd: {
-            js: ["Node JS", "Express",],
+            js: ["Node JS", "Express"],
         },
         mobileApp: {
             hybrid: ["Flutter"]
@@ -30,9 +30,8 @@ const shan = {
         backEnd: ["MVC Architecture"]
     },
     currentFocus: {
-        language: ["Dart", "Javascript", "Typescript"],
+        language: ["Typescript", "Golang"],
     },
-    workingOn: "Doarun"
 };
 ```
 
