@@ -37,6 +37,12 @@ const shan = {
 
 I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+### 📕 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C688%20hrs%2021%20mins-blue)
@@ -121,4 +127,6 @@ Python                   3 repos             ░░░░░░░░░░░�
 
  Last Updated on 29/01/2023 18:37:26 UTC
 <!--END_SECTION:waka-->
+
+
 
