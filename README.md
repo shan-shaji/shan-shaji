@@ -40,11 +40,11 @@ I love connecting with different people</b> so if you want to say <b>hi, I'll be
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use of await in async functions](https://shan-shaji.medium.com/use-of-await-in-async-functions-5c6b084b24b6?source=rss-c347e1729e75------2)
 - [Factory keyword in dart](https://shan-shaji.medium.com/factory-keyword-in-dart-b4235d83c2b8?source=rss-c347e1729e75------2)
 - [How to use get_it package](https://shan-shaji.medium.com/how-to-use-get-it-package-e3d63f7c9290?source=rss-c347e1729e75------2)
 - [Equatable package in dart](https://shan-shaji.medium.com/equatable-package-in-dart-6cf6c71ec843?source=rss-c347e1729e75------2)
 - [Speed up your development with theses 20 flutter packages](https://shan-shaji.medium.com/speed-up-your-development-with-theses-20-flutter-packages-176e8cba7b0a?source=rss-c347e1729e75------2)
-- [Basics of Hive in flutter](https://shan-shaji.medium.com/basics-of-hive-in-flutter-8210354138bf?source=rss-c347e1729e75------2)
 <!-- BLOG-POST-LIST:END -->
 
 
