@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Shan.</h2>
 <p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  <a href="https://medium.com/feed/@shan-shaji">Blog</a> •
+  <a href="https://twitter.com/intent/follow?screen_name=shan__shaji">Twitter</a>
 </p>
 
 <p align="center"><a href="https://twitter.com/intent/follow?screen_name=shan__shaji"><img src="https://img.shields.io/twitter/follow/shan__shaji?style=flat" alt="Twitter Follow"></a>
