@@ -43,7 +43,6 @@ const shan = {
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [What are contexts in flutter?](https://shan-shaji.medium.com/what-are-contexts-in-flutter-4b3a9a91492?source=rss-c347e1729e75------2)
 - [Use of await in async functions](https://shan-shaji.medium.com/use-of-await-in-async-functions-5c6b084b24b6?source=rss-c347e1729e75------2)
 - [Factory keyword in dart](https://shan-shaji.medium.com/factory-keyword-in-dart-b4235d83c2b8?source=rss-c347e1729e75------2)
