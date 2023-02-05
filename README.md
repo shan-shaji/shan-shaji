@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/github/followers/shan-shaji?label=Follow&amp;style=social" alt="GitHub followers">
 <a href="http://shan-shaji.github.io/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&amp;style=flat-square&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=http://shan-shaji.github.io/" alt="website"></a></p>
 
+---
+
 ```javascript
 const shan = {
   pronouns: "He" | "Him",
@@ -34,6 +36,8 @@ const shan = {
 };
 ```
 
+---
+
 <!-- I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> -->
 
 ### 📕 Blog posts
@@ -46,6 +50,8 @@ const shan = {
 - [How to use get_it package](https://shan-shaji.medium.com/how-to-use-get-it-package-e3d63f7c9290?source=rss-c347e1729e75------2)
 - [Equatable package in dart](https://shan-shaji.medium.com/equatable-package-in-dart-6cf6c71ec843?source=rss-c347e1729e75------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 <details>
     <summary>📊 Weekly Metrics</summary>
