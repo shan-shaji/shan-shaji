@@ -52,7 +52,7 @@ const shan = {
 
 <hr>
 <details>
-    <summary>📊 Weekly Metrics</summary>
+    <summary>⚡ Weekly Metrics</summary>
     <p>
     
 <!--START_SECTION:waka-->
