@@ -58,7 +58,7 @@ const shan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C698%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My GitHub Data** 
 
@@ -132,7 +132,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2023 18:37:17 UTC
+ Last Updated on 19/02/2023 18:37:15 UTC
 <!--END_SECTION:waka-->
 
 </p>
