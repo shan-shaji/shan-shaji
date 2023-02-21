@@ -43,11 +43,11 @@ const shan = {
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Types in Typescript](https://shan-shaji.medium.com/types-in-typescript-19c6cf77a9cf?source=rss-c347e1729e75------2)
 - [TypeScript is a statically typed superset of JavaScript that provides type safety and better…](https://shan-shaji.medium.com/typescript-is-a-statically-typed-superset-of-javascript-that-provides-type-safety-and-better-b26b11a9fd7b?source=rss-c347e1729e75------2)
 - [Introduction to Typescript](https://shan-shaji.medium.com/introduction-to-typescript-723105fa3a35?source=rss-c347e1729e75------2)
 - [What are contexts in flutter?](https://shan-shaji.medium.com/what-are-contexts-in-flutter-4b3a9a91492?source=rss-c347e1729e75------2)
 - [Use of await in async functions](https://shan-shaji.medium.com/use-of-await-in-async-functions-5c6b084b24b6?source=rss-c347e1729e75------2)
-- [Factory keyword in dart](https://shan-shaji.medium.com/factory-keyword-in-dart-b4235d83c2b8?source=rss-c347e1729e75------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
