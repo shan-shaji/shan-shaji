@@ -58,17 +58,17 @@ const shan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C713%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 479.2 kB Used in GitHub's Storage 
  > 
-> 🏆 151 Contributions in the Year 2023
+> 🏆 152 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 125 Public Repositories 
+> 📜 126 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
@@ -129,7 +129,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2023 18:40:53 UTC
+ Last Updated on 07/03/2023 18:40:25 UTC
 <!--END_SECTION:waka-->
 
 </p>
