@@ -43,11 +43,11 @@ const shan = {
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Version control systems &lpar;VCS&rpar; like Git are essential tools for software development, allowing…](https://shan-shaji.medium.com/version-control-systems-vcs-like-git-are-essential-tools-for-software-development-allowing-3e8b023fc9a8?source=rss-c347e1729e75------2)
-- [End-to-end &lpar;e2e&rpar; testing is a type of software testing that assesses the functionality of a system…](https://shan-shaji.medium.com/end-to-end-e2e-testing-is-a-type-of-software-testing-that-assesses-the-functionality-of-a-system-3d083151870d?source=rss-c347e1729e75------2)
-- [What is Smoke Testing](https://shan-shaji.medium.com/what-is-smoke-testing-b87d0b3d44b8?source=rss-c347e1729e75------2)
-- [What is Load Testing?](https://shan-shaji.medium.com/what-is-load-testing-8188dff98456?source=rss-c347e1729e75------2)
-- [What is Regression Testing?](https://shan-shaji.medium.com/what-is-regression-testing-2882553f7f47?source=rss-c347e1729e75------2)
+- [What are pre-commit hooks and How to use in flutter projects?](https://dev.to/shanshaji/what-are-pre-commit-hooks-and-how-to-use-in-flutter-projects-4c0m)
+- [What is e2e Testing?](https://dev.to/shanshaji/what-is-e2e-testing-1eg0)
+- [What is Smoke Testing](https://dev.to/shanshaji/what-is-smoke-testing-1n95)
+- [What is Load Testing?](https://dev.to/shanshaji/what-is-load-testing-27dk)
+- [What is Regression Testing?](https://dev.to/shanshaji/what-is-regression-testing-162n)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
