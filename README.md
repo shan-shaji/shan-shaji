@@ -43,11 +43,11 @@ const shan = {
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interfaces in typescript](https://dev.to/shanshaji/interfaces-in-typescript-55f8)
 - [What are pre-commit hooks and How to use in flutter projects?](https://dev.to/shanshaji/what-are-pre-commit-hooks-and-how-to-use-in-flutter-projects-4c0m)
 - [What is e2e Testing?](https://dev.to/shanshaji/what-is-e2e-testing-1eg0)
 - [What is Smoke Testing](https://dev.to/shanshaji/what-is-smoke-testing-1n95)
 - [What is Load Testing?](https://dev.to/shanshaji/what-is-load-testing-27dk)
-- [What is Regression Testing?](https://dev.to/shanshaji/what-is-regression-testing-162n)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
