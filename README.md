@@ -43,11 +43,11 @@ const shan = {
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of JSON Web Tokens: Real-World Applications and Examples](https://dev.to/shanshaji/unlocking-the-power-of-json-web-tokens-real-world-applications-and-examples-1m30)
 - [Boost Your Productivity: How to Create and Use Custom Snippets in VS Code](https://dev.to/shanshaji/boost-your-productivity-how-to-create-and-use-custom-snippets-in-vs-code-5bbo)
 - [Interfaces in typescript](https://dev.to/shanshaji/interfaces-in-typescript-55f8)
 - [What are pre-commit hooks and How to use in flutter projects?](https://dev.to/shanshaji/what-are-pre-commit-hooks-and-how-to-use-in-flutter-projects-4c0m)
 - [What is e2e Testing?](https://dev.to/shanshaji/what-is-e2e-testing-1eg0)
-- [What is Smoke Testing](https://dev.to/shanshaji/what-is-smoke-testing-1n95)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
