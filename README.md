@@ -32,6 +32,7 @@ const shan = {
   },
   currentFocus: {
     language: ["Typescript", "Golang"],
+    frameworks: ["Ruby on Rails"]
   },
 };
 ```
