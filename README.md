@@ -39,8 +39,7 @@ const shan = {
 
 <hr>
 
-<!-- I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> -->
-
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
