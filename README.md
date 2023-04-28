@@ -37,13 +37,13 @@ const shan = {
 };
 ```
 
-<hr>
+---
 
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+---
 
 ### 📕 Blog posts
 
