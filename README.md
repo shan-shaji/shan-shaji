@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/Rannie/flui/issues/50) in [Rannie/flui](https://github.com/Rannie/flui)
-2. 🎉 Merged PR [#3](https://github.com/shan-shaji/neo/pull/3) in [shan-shaji/neo](https://github.com/shan-shaji/neo)
-3. ❗️ Opened issue [#1773](https://github.com/Sygil-Dev/sygil-webui/issues/1773) in [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
-4. ❗️ Closed issue [#2](https://github.com/shan-shaji/setup-flutter/issues/2) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
-5. 🗣 Commented on [#2](https://github.com/shan-shaji/setup-flutter/issues/2) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
+1. 🗣 Commented on [#15](https://github.com/shan-shaji/day_picker/issues/15) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+2. ❗️ Opened issue [#50](https://github.com/Rannie/flui/issues/50) in [Rannie/flui](https://github.com/Rannie/flui)
+3. 🎉 Merged PR [#3](https://github.com/shan-shaji/neo/pull/3) in [shan-shaji/neo](https://github.com/shan-shaji/neo)
+4. ❗️ Opened issue [#1773](https://github.com/Sygil-Dev/sygil-webui/issues/1773) in [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+5. ❗️ Closed issue [#2](https://github.com/shan-shaji/setup-flutter/issues/2) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
 <!--END_SECTION:activity-->
 
 ---
