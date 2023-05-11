@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/shan-shaji/day_picker/issues/14) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-2. 🗣 Commented on [#14](https://github.com/shan-shaji/day_picker/issues/14) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-3. 🎉 Merged PR [#17](https://github.com/shan-shaji/day_picker/pull/17) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-4. 💪 Opened PR [#17](https://github.com/shan-shaji/day_picker/pull/17) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-5. ❗️ Closed issue [#15](https://github.com/shan-shaji/day_picker/issues/15) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+1. 🎉 Merged PR [#3](https://github.com/shan-shaji/setup-flutter/pull/3) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
+2. 💪 Opened PR [#3](https://github.com/shan-shaji/setup-flutter/pull/3) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
+3. ❗️ Closed issue [#14](https://github.com/shan-shaji/day_picker/issues/14) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+4. 🗣 Commented on [#14](https://github.com/shan-shaji/day_picker/issues/14) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+5. 🎉 Merged PR [#17](https://github.com/shan-shaji/day_picker/pull/17) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
 <!--END_SECTION:activity-->
 
 ---
