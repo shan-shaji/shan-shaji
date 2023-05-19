@@ -54,11 +54,11 @@ const shan = {
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Effective Prompts for Large Language Models: Two Prompting Principles and Their Related Tactics](https://dev.to/shanshaji/writing-effective-prompts-for-large-language-models-two-prompting-principles-and-their-related-tactics-151a)
 - [AI Industry Shakeup: Massive Announcements from Top Companies Signal a New Era of Innovation](https://dev.to/shanshaji/ai-industry-shakeup-massive-announcements-from-top-companies-signal-a-new-era-of-innovation-pj7)
 - [Unlocking the Power of JSON Web Tokens: Real-World Applications and Examples](https://dev.to/shanshaji/unlocking-the-power-of-json-web-tokens-real-world-applications-and-examples-1m30)
 - [Boost Your Productivity: How to Create and Use Custom Snippets in VS Code](https://dev.to/shanshaji/boost-your-productivity-how-to-create-and-use-custom-snippets-in-vs-code-5bbo)
 - [Interfaces in typescript](https://dev.to/shanshaji/interfaces-in-typescript-55f8)
-- [What are pre-commit hooks and How to use in flutter projects?](https://dev.to/shanshaji/what-are-pre-commit-hooks-and-how-to-use-in-flutter-projects-4c0m)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
