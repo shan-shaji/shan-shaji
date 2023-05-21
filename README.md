@@ -54,11 +54,11 @@ const shan = {
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Iterative Prompt Development: Iteratively analyse and refine your prompts](https://dev.to/shanshaji/iterative-prompt-development-iteratively-analyse-and-refine-your-prompts-3ibl)
 - [Principle 2 of Writing Effective Prompts for Large Language Models: Give Them Time to Think](https://dev.to/shanshaji/principle-2-of-writing-effective-prompts-for-large-language-models-give-them-time-to-think-25j3)
 - [Writing Effective Prompts for Large Language Models: Two Prompting Principles and Their Related Tactics](https://dev.to/shanshaji/writing-effective-prompts-for-large-language-models-two-prompting-principles-and-their-related-tactics-151a)
 - [AI Industry Shakeup: Massive Announcements from Top Companies Signal a New Era of Innovation](https://dev.to/shanshaji/ai-industry-shakeup-massive-announcements-from-top-companies-signal-a-new-era-of-innovation-pj7)
 - [Unlocking the Power of JSON Web Tokens: Real-World Applications and Examples](https://dev.to/shanshaji/unlocking-the-power-of-json-web-tokens-real-world-applications-and-examples-1m30)
-- [Boost Your Productivity: How to Create and Use Custom Snippets in VS Code](https://dev.to/shanshaji/boost-your-productivity-how-to-create-and-use-custom-snippets-in-vs-code-5bbo)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
