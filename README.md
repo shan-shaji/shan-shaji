@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6649](https://github.com/dart-lang/pub-dev/issues/6649) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
-2. 🗣 Commented on [#6649](https://github.com/dart-lang/pub-dev/issues/6649) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
-3. 🗣 Commented on [#6649](https://github.com/dart-lang/pub-dev/issues/6649) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
-4. ❗️ Opened issue [#6649](https://github.com/dart-lang/pub-dev/issues/6649) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
-5. 🎉 Merged PR [#4](https://github.com/shan-shaji/setup-flutter/pull/4) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
+1. 🎉 Merged PR [#2](https://github.com/shan-shaji/shan-shaji.github.io/pull/2) in [shan-shaji/shan-shaji.github.io](https://github.com/shan-shaji/shan-shaji.github.io)
+2. 💪 Opened PR [#2](https://github.com/shan-shaji/shan-shaji.github.io/pull/2) in [shan-shaji/shan-shaji.github.io](https://github.com/shan-shaji/shan-shaji.github.io)
+3. ❗️ Closed issue [#6649](https://github.com/dart-lang/pub-dev/issues/6649) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
+4. 🗣 Commented on [#6649](https://github.com/dart-lang/pub-dev/issues/6649) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
+5. 🗣 Commented on [#6649](https://github.com/dart-lang/pub-dev/issues/6649) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
 <!--END_SECTION:activity-->
 
 ---
