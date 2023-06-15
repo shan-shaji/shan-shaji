@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/shan-shaji/day_picker/issues/13) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-2. 🗣 Commented on [#13](https://github.com/shan-shaji/day_picker/issues/13) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-3. 🎉 Merged PR [#2](https://github.com/shan-shaji/shan-shaji.github.io/pull/2) in [shan-shaji/shan-shaji.github.io](https://github.com/shan-shaji/shan-shaji.github.io)
-4. 💪 Opened PR [#2](https://github.com/shan-shaji/shan-shaji.github.io/pull/2) in [shan-shaji/shan-shaji.github.io](https://github.com/shan-shaji/shan-shaji.github.io)
-5. 🔒 Closed issue [#6649](https://github.com/dart-lang/pub-dev/issues/6649) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
+1. 🗣 Commented on [#3](https://github.com/ArkrootHQ/freezed-snippets/issues/3) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+2. 🔒 Closed issue [#13](https://github.com/shan-shaji/day_picker/issues/13) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+3. 🗣 Commented on [#13](https://github.com/shan-shaji/day_picker/issues/13) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+4. 🎉 Merged PR [#2](https://github.com/shan-shaji/shan-shaji.github.io/pull/2) in [shan-shaji/shan-shaji.github.io](https://github.com/shan-shaji/shan-shaji.github.io)
+5. 💪 Opened PR [#2](https://github.com/shan-shaji/shan-shaji.github.io/pull/2) in [shan-shaji/shan-shaji.github.io](https://github.com/shan-shaji/shan-shaji.github.io)
 <!--END_SECTION:activity-->
 
 ---
