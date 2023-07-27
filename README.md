@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#18](https://github.com/shan-shaji/day_picker/issues/18) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-2. 🎉 Merged PR [#19](https://github.com/shan-shaji/day_picker/pull/19) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-3. 🗣 Commented on [#19](https://github.com/shan-shaji/day_picker/pull/19#issuecomment-1634430153) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-4. 🗣 Commented on [#3](https://github.com/ArkrootHQ/freezed-snippets/issues/3#issuecomment-1592487551) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
-5. ❗ Opened issue [#45](https://github.com/cunarist/flutter-rust-app-template/issues/45) in [cunarist/flutter-rust-app-template](https://github.com/cunarist/flutter-rust-app-template)
+1. 🔒 Closed issue [#3](https://github.com/ArkrootHQ/freezed-snippets/issues/3) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+2. 🎉 Merged PR [#4](https://github.com/ArkrootHQ/freezed-snippets/pull/4) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+3. 🗣 Commented on [#4](https://github.com/ArkrootHQ/freezed-snippets/pull/4#issuecomment-1652862625) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+4. 🔒 Closed issue [#18](https://github.com/shan-shaji/day_picker/issues/18) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+5. 🎉 Merged PR [#19](https://github.com/shan-shaji/day_picker/pull/19) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
 <!--END_SECTION:activity-->
 
 ---
