@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/ArkrootHQ/freezed-snippets/issues/5) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
-2. 🎉 Merged PR [#6](https://github.com/ArkrootHQ/freezed-snippets/pull/6) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
-3. 💪 Opened PR [#6](https://github.com/ArkrootHQ/freezed-snippets/pull/6) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
-4. 🗣 Commented on [#20](https://github.com/shan-shaji/day_picker/issues/20#issuecomment-1754365423) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-5. 🔒 Closed issue [#1138](https://github.com/isar/hive/issues/1138) in [isar/hive](https://github.com/isar/hive)
+1. 🚀 Published release [v0.1.0](https://github.com/ArkrootHQ/freezed-snippets/releases/tag/v0.1.0) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+2. 🎉 Merged PR [#7](https://github.com/ArkrootHQ/freezed-snippets/pull/7) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+3. 💪 Opened PR [#7](https://github.com/ArkrootHQ/freezed-snippets/pull/7) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+4. 🔒 Closed issue [#5](https://github.com/ArkrootHQ/freezed-snippets/issues/5) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+5. 🎉 Merged PR [#6](https://github.com/ArkrootHQ/freezed-snippets/pull/6) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
 <!--END_SECTION:activity-->
 
 ---
