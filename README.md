@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1890](https://github.com/leancodepl/patrol/pull/1890) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
-2. 🚀 Published release [v0.1.0](https://github.com/ArkrootHQ/freezed-snippets/releases/tag/v0.1.0) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
-3. 🎉 Merged PR [#7](https://github.com/ArkrootHQ/freezed-snippets/pull/7) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
-4. 💪 Opened PR [#7](https://github.com/ArkrootHQ/freezed-snippets/pull/7) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
-5. 🔒 Closed issue [#5](https://github.com/ArkrootHQ/freezed-snippets/issues/5) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+1. ❗ Opened issue [#44](https://github.com/singular-labs/Singular-Flutter-SDK/issues/44) in [singular-labs/Singular-Flutter-SDK](https://github.com/singular-labs/Singular-Flutter-SDK)
+2. 💪 Opened PR [#1890](https://github.com/leancodepl/patrol/pull/1890) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
+3. 🚀 Published release [v0.1.0](https://github.com/ArkrootHQ/freezed-snippets/releases/tag/v0.1.0) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+4. 🎉 Merged PR [#7](https://github.com/ArkrootHQ/freezed-snippets/pull/7) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+5. 💪 Opened PR [#7](https://github.com/ArkrootHQ/freezed-snippets/pull/7) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
 <!--END_SECTION:activity-->
 
 ---
