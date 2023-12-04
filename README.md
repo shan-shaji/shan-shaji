@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/carnextdoor/advertising_id/pull/1) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
-2. 🔒 Closed issue [#44](https://github.com/singular-labs/Singular-Flutter-SDK/issues/44) in [singular-labs/Singular-Flutter-SDK](https://github.com/singular-labs/Singular-Flutter-SDK)
-3. ❗ Opened issue [#44](https://github.com/singular-labs/Singular-Flutter-SDK/issues/44) in [singular-labs/Singular-Flutter-SDK](https://github.com/singular-labs/Singular-Flutter-SDK)
-4. 💪 Opened PR [#1890](https://github.com/leancodepl/patrol/pull/1890) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
-5. 🚀 Published release [v0.1.0](https://github.com/ArkrootHQ/freezed-snippets/releases/tag/v0.1.0) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+1. 🗣 Commented on [#1](https://github.com/carnextdoor/advertising_id/pull/1#issuecomment-1839378002) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
+2. 💪 Opened PR [#1](https://github.com/carnextdoor/advertising_id/pull/1) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
+3. 🔒 Closed issue [#44](https://github.com/singular-labs/Singular-Flutter-SDK/issues/44) in [singular-labs/Singular-Flutter-SDK](https://github.com/singular-labs/Singular-Flutter-SDK)
+4. ❗ Opened issue [#44](https://github.com/singular-labs/Singular-Flutter-SDK/issues/44) in [singular-labs/Singular-Flutter-SDK](https://github.com/singular-labs/Singular-Flutter-SDK)
+5. 💪 Opened PR [#1890](https://github.com/leancodepl/patrol/pull/1890) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
 <!--END_SECTION:activity-->
 
 ---
