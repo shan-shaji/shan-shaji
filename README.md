@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/operando/advertising_id/pull/39) in [operando/advertising_id](https://github.com/operando/advertising_id)
-2. 🗣 Commented on [#1](https://github.com/carnextdoor/advertising_id/pull/1#issuecomment-1839378002) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
-3. 💪 Opened PR [#1](https://github.com/carnextdoor/advertising_id/pull/1) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
-4. 🔒 Closed issue [#44](https://github.com/singular-labs/Singular-Flutter-SDK/issues/44) in [singular-labs/Singular-Flutter-SDK](https://github.com/singular-labs/Singular-Flutter-SDK)
-5. ❗ Opened issue [#44](https://github.com/singular-labs/Singular-Flutter-SDK/issues/44) in [singular-labs/Singular-Flutter-SDK](https://github.com/singular-labs/Singular-Flutter-SDK)
+1. 🔒 Closed issue [#8](https://github.com/ArkrootHQ/freezed-snippets/issues/8) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+2. 🎉 Merged PR [#9](https://github.com/ArkrootHQ/freezed-snippets/pull/9) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+3. 🗣 Commented on [#9](https://github.com/ArkrootHQ/freezed-snippets/pull/9#issuecomment-1879682019) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+4. 💪 Opened PR [#39](https://github.com/operando/advertising_id/pull/39) in [operando/advertising_id](https://github.com/operando/advertising_id)
+5. 🗣 Commented on [#1](https://github.com/carnextdoor/advertising_id/pull/1#issuecomment-1839378002) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
 <!--END_SECTION:activity-->
 
 ---
