@@ -42,11 +42,11 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139783](https://github.com/flutter/flutter/issues/139783#issuecomment-1912519530) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#139783](https://github.com/flutter/flutter/issues/139783#issuecomment-1908793600) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🎉 Merged PR [#2](https://github.com/carnextdoor/advertising_id/pull/2) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
-4. 💪 Opened PR [#2](https://github.com/carnextdoor/advertising_id/pull/2) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
-5. 🚀 Published release [v0.1.1](https://github.com/ArkrootHQ/freezed-snippets/releases/tag/v0.1.1) in [ArkrootHQ/freezed-snippets](https://github.com/ArkrootHQ/freezed-snippets)
+1. 💪 Opened PR [#11](https://github.com/scottt2/design-patterns-in-dart/pull/11) in [scottt2/design-patterns-in-dart](https://github.com/scottt2/design-patterns-in-dart)
+2. 🗣 Commented on [#139783](https://github.com/flutter/flutter/issues/139783#issuecomment-1912519530) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#139783](https://github.com/flutter/flutter/issues/139783#issuecomment-1908793600) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🎉 Merged PR [#2](https://github.com/carnextdoor/advertising_id/pull/2) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
+5. 💪 Opened PR [#2](https://github.com/carnextdoor/advertising_id/pull/2) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
 <!--END_SECTION:activity-->
 
 ---
