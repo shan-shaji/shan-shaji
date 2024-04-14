@@ -54,7 +54,7 @@ const shan = {
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Flavors for Flutter App - iOS](https://dev.to/arkroot/create-flavors-for-flutter-app-ios-fnl)
+- [Create Flavors for Flutter App - iOS](https://dev.to/shanshaji/create-flavors-for-flutter-app-ios-fnl)
 - [The Art of Inferring with Large Language Models](https://dev.to/arkroot/the-art-of-inferring-with-large-language-models-243m)
 - [Iterative Prompt Development: Iteratively analyse and refine your prompts](https://dev.to/arkroot/iterative-prompt-development-iteratively-analyse-and-refine-your-prompts-3ibl)
 - [Principle 2 of Writing Effective Prompts for Large Language Models: Give Them Time to Think](https://dev.to/arkroot/principle-2-of-writing-effective-prompts-for-large-language-models-give-them-time-to-think-25j3)
