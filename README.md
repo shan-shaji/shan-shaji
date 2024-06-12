@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Shan.</h2>
 <p align="center">
-  <a href="https://medium.com/feed/@shan-shaji">Blog</a> •
+  <a href="https://dev.to/shanshaji">Blog</a> •
   <a href="https://twitter.com/intent/follow?screen_name=shan__shaji">Twitter</a>
 </p>
 
