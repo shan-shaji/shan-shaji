@@ -42,8 +42,8 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/shan-shaji/setup-flutter/issues/5) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
-2. ❗ Opened issue [#444](https://github.com/Instabug/Instabug-Flutter/issues/444) in [Instabug/Instabug-Flutter](https://github.com/Instabug/Instabug-Flutter)
+1. 🗣 Commented on [#66](https://github.com/sodiray/radash/pull/66#issuecomment-2197878796) in [sodiray/radash](https://github.com/sodiray/radash)
+2. ❗ Opened issue [#5](https://github.com/shan-shaji/setup-flutter/issues/5) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
 3. 💪 Opened PR [#11](https://github.com/scottt2/design-patterns-in-dart/pull/11) in [scottt2/design-patterns-in-dart](https://github.com/scottt2/design-patterns-in-dart)
 4. 🗣 Commented on [#139783](https://github.com/flutter/flutter/issues/139783#issuecomment-1908793600) in [flutter/flutter](https://github.com/flutter/flutter)
 5. 🎉 Merged PR [#2](https://github.com/carnextdoor/advertising_id/pull/2) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
