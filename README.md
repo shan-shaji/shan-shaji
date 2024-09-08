@@ -15,6 +15,7 @@
 const shan = {
   pronouns: "He" | "Him",
   code: ["Dart", "Javascript", "Typescript", "Python", "Golang"],
+  isAvailableForHiring: true,
   askMeAbout: ["Web dev", "Tech", "App dev", "Designing"],
   technologies: {
     backEnd: {
