@@ -76,8 +76,6 @@ const shan = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 596 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 106 Public Repositories 
@@ -140,7 +138,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2024 18:49:23 UTC
+ Last Updated on 15/09/2024 18:50:00 UTC
 <!--END_SECTION:waka-->
 
 </p>
