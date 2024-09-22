@@ -43,9 +43,9 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/shan-shaji/day_picker/pull/21) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-2. 🗣 Commented on [#21](https://github.com/shan-shaji/day_picker/pull/21#issuecomment-2342601245) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
-3. ❗ Opened issue [#5](https://github.com/shan-shaji/setup-flutter/issues/5) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
+1. 🚀 Published release [v2.3.0](https://github.com/shan-shaji/day_picker/releases/tag/v2.3.0) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+2. 🎉 Merged PR [#21](https://github.com/shan-shaji/day_picker/pull/21) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
+3. 🗣 Commented on [#21](https://github.com/shan-shaji/day_picker/pull/21#issuecomment-2342601245) in [shan-shaji/day_picker](https://github.com/shan-shaji/day_picker)
 4. 🗣 Commented on [#139783](https://github.com/flutter/flutter/issues/139783#issuecomment-1908793600) in [flutter/flutter](https://github.com/flutter/flutter)
 5. 🎉 Merged PR [#2](https://github.com/carnextdoor/advertising_id/pull/2) in [carnextdoor/advertising_id](https://github.com/carnextdoor/advertising_id)
 <!--END_SECTION:activity-->
