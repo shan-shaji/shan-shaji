@@ -76,8 +76,6 @@ const shan = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 763 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 110 Public Repositories 
@@ -136,7 +134,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2024 18:53:11 UTC
+ Last Updated on 07/11/2024 18:52:14 UTC
 <!--END_SECTION:waka-->
 
 </p>
