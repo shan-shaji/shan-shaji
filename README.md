@@ -76,6 +76,8 @@ const shan = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 764 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 110 Public Repositories 
@@ -109,17 +111,16 @@ Sunday                   3954 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     6 mins              █████████████████████████   98.67 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hotel_booking_app        6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -135,7 +136,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2024 18:54:54 UTC
+ Last Updated on 16/12/2024 18:56:42 UTC
 <!--END_SECTION:waka-->
 
 </p>
