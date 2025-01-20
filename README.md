@@ -76,8 +76,6 @@ const shan = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 111 Public Repositories 
@@ -111,17 +109,16 @@ Sunday                   3955 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     45 mins             ████████████████████████░   94.10 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mobile-b                 48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -137,7 +134,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2025 18:51:10 UTC
+ Last Updated on 20/01/2025 18:50:22 UTC
 <!--END_SECTION:waka-->
 
 </p>
