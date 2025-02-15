@@ -68,8 +68,6 @@ const shan = {
     <p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C897%20hrs%206%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -84,45 +82,6 @@ const shan = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2980 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-🌆 Daytime                9466 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-🌃 Evening                18153 commits       ████████████░░░░░░░░░░░░░   49.55 % 
-🌙 Night                  6036 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   4762 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Tuesday                  5535 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Wednesday                4581 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Thursday                 8215 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Friday                   5753 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Saturday                 3833 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Sunday                   3956 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -136,7 +95,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:51:50 UTC
+ Last Updated on 15/02/2025 18:49:11 UTC
 <!--END_SECTION:waka-->
 
 </p>
