@@ -43,7 +43,7 @@ const shan = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/shan-shaji/slug/issues/1) in [shan-shaji/slug](https://github.com/shan-shaji/slug)
+1. 🗣 Commented on [#1261](https://github.com/ubuntu-flutter-community/musicpod/issues/1261#issuecomment-2848543520) in [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod)
 2. 🔒 Closed issue [#2](https://github.com/shan-shaji/slug/issues/2) in [shan-shaji/slug](https://github.com/shan-shaji/slug)
 3. 🔒 Closed issue [#3](https://github.com/shan-shaji/slug/issues/3) in [shan-shaji/slug](https://github.com/shan-shaji/slug)
 4. 🗣 Commented on [#369](https://github.com/radashi-org/radashi/pull/369#issuecomment-2679780076) in [radashi-org/radashi](https://github.com/radashi-org/radashi)
