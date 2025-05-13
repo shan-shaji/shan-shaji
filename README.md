@@ -11,30 +11,65 @@
 
 <hr>
 
-```javascript
-const shan = {
-  pronouns: "He" | "Him",
-  code: ["Dart", "Javascript", "Typescript", "Python", "Rust"],
-  isAvailableForHiring: true,
-  askMeAbout: ["Web dev", "Tech", "App dev", "Designing"],
-  technologies: {
-    backEnd: {
-      js: ["Node JS", "Express"],
-    },
-    mobileApp: {
-      hybrid: ["Flutter"],
-    },
-    databases: ["Mongo", "MySql"],
-    misc: ["Firebase", "Analytics", "Cloud Functions"],
-  },
-  architecture: {
-    frontEnd: ["MVVM Architecture", "Bloc Architecture"],
-    backEnd: ["MVC Architecture"],
-  },
-  currentFocus: {
-    language: ["Python","Typescript", "Rust"],
-  },
-};
+<!-- README.md -->
+
+## 🧠 > whoami
+
+```bash
+Name: Shan Shaji
+Pronouns: He/Him
+Role: Software Engineer
+Available for Hire: ✅
+Current Focus: Python 🐍 | TypeScript 🗾 | Rust 🦠
+Based in: 🌍 Somewhere between code and caffeine
+```
+
+
+
+## ⚙️ > tech-stack --list
+
+```yaml
+languages:
+  - Dart
+  - TypeScript
+  - Python
+  - Rust
+  - C
+  - R
+
+frameworks:
+  backend:
+    - Node.js
+    - Express
+  mobile:
+    - Flutter
+
+architectures:
+  frontend:
+    - MVVM
+    - Bloc
+  backend:
+    - MVC
+
+databases:
+  - MongoDB
+  - MySQL
+
+tools:
+  - Firebase
+  - Cloud Functions
+  - Google Analytics
+```
+
+
+
+## 🚀 > interests --show
+
+```
+🧠 Clean architecture, readable code, and performance.
+🎨 UI/UX, animations, and making dev tools prettier.
+🧪 Breaking stuff and debugging at 3AM.
+📡 Tech chats, open source, and teaching.
 ```
 
 ---
