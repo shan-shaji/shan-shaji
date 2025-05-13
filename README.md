@@ -32,8 +32,7 @@ const shan = {
     backEnd: ["MVC Architecture"],
   },
   currentFocus: {
-    language: ["Python","Typescript", "Golang"],
-    frameworks: ["Ruby on Rails"]
+    language: ["Python","Typescript", "Rust"],
   },
 };
 ```
