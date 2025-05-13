@@ -68,8 +68,8 @@ tools:
 ```
 🧠 Clean architecture, readable code, and performance.
 🎨 UI/UX, animations, and making dev tools prettier.
-🧪 Breaking stuff and debugging at 3AM.
-📡 Tech chats, open source, and teaching.
+🧪 Breaking stuff and debugging at 1AM.
+📡 Tech chats, open source, and blogging.
 ```
 
 ---
