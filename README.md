@@ -102,13 +102,15 @@ tools:
     <p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C936%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C937%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 150 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -173,7 +175,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2025 18:57:16 UTC
+ Last Updated on 31/05/2025 18:52:42 UTC
 <!--END_SECTION:waka-->
 
 </p>
