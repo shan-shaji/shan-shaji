@@ -35,6 +35,8 @@ languages:
   - Python
   - Rust
   - C
+  - C++
+  - Perl
   - R
 
 frameworks:
