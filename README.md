@@ -79,8 +79,8 @@ tools:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3209506647) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
-2. 🚀 Published release [v2.0.0](https://github.com/shan-shaji/ansi-escapes-dart/releases/tag/v2.0.0) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+1. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3210040215) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
+2. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3209506647) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
 3. 🚀 Published release [v1.1.0](https://github.com/shan-shaji/ansi-escapes-dart/releases/tag/v1.1.0) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
 4. 🗣 Commented on [#1306](https://github.com/ubuntu-flutter-community/musicpod/issues/1306#issuecomment-2971818271) in [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod)
 5. 🔒 Closed issue [#5](https://github.com/shan-shaji/setup-flutter/issues/5) in [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter)
