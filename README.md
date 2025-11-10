@@ -79,10 +79,10 @@ tools:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/shan-shaji/ansi-escapes-dart/issues/1) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
-2. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3495624173) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
-3. ❗ Opened issue [#99](https://github.com/marqably/flites/issues/99) in [marqably/flites](https://github.com/marqably/flites)
-4. 🗣 Commented on [#30876](https://github.com/element-hq/element-web/issues/30876#issuecomment-3333364396) in [element-hq/element-web](https://github.com/element-hq/element-web)
+1. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3511834464) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
+2. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3511825509) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
+3. 🔒 Closed issue [#1](https://github.com/shan-shaji/ansi-escapes-dart/issues/1) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+4. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3495624173) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
 5. 🗣 Commented on [#1](https://github.com/shan-shaji/litcat/pull/1#issuecomment-3315078031) in [shan-shaji/litcat](https://github.com/shan-shaji/litcat)
 <!--END_SECTION:activity-->
 
