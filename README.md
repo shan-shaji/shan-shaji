@@ -19,12 +19,8 @@
 Name: Shan Shaji
 Pronouns: He/Him
 Role: Software Engineer
-Available for Hire: ✅
-Current Focus: Python 🐍 | TypeScript 🗾 | Rust 🦠
-Based in: 🌍 Somewhere between code and caffeine
+Current Focus: Python 🐍 | Rust 🦠
 ```
-
-
 
 ## ⚙️ > tech-stack --list
 
@@ -38,42 +34,7 @@ languages:
   - C++
   - Perl
   - R
-
-frameworks:
-  backend:
-    - Node.js
-    - Express
-  mobile:
-    - Flutter
-
-architectures:
-  frontend:
-    - MVVM
-    - Bloc
-  backend:
-    - MVC
-
-databases:
-  - MongoDB
-  - MySQL
-
-tools:
-  - Firebase
-  - Cloud Functions
-  - Google Analytics
 ```
-
-
-
-## 🚀 > interests --show
-
-```
-🧠 Clean architecture, readable code, and performance.
-🎨 UI/UX, animations, and making dev tools prettier.
-🧪 Breaking stuff and debugging at 1AM.
-📡 Tech chats, open source, and blogging.
-```
-
 ---
 
 ### ⚡ Recent Activity
