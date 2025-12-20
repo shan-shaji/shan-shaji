@@ -40,11 +40,11 @@ languages:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/shan-shaji/ansi-escapes-dart/issues/5#issuecomment-3677786592) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
-2. ❗ Opened issue [#6](https://github.com/shan-shaji/ansi-escapes-dart/issues/6) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
-3. ❗ Opened issue [#142](https://github.com/authpass/biometric_storage/issues/142) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
-4. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3511834464) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
-5. 🗣 Commented on [#121](https://github.com/authpass/biometric_storage/issues/121#issuecomment-3511825509) in [authpass/biometric_storage](https://github.com/authpass/biometric_storage)
+1. 🚀 Published release [v2.0.1](https://github.com/shan-shaji/ansi-escapes-dart/releases/tag/v2.0.1) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+2. 🗣 Commented on [#4](https://github.com/shan-shaji/ansi-escapes-dart/pull/4#issuecomment-3678073566) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+3. 🔒 Closed issue [#6](https://github.com/shan-shaji/ansi-escapes-dart/issues/6) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+4. 🗣 Commented on [#6](https://github.com/shan-shaji/ansi-escapes-dart/issues/6#issuecomment-3678065836) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+5. 🔒 Closed issue [#5](https://github.com/shan-shaji/ansi-escapes-dart/issues/5) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
 <!--END_SECTION:activity-->
 
 ---
