@@ -65,7 +65,7 @@ languages:
     <p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C314%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C314%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -73,7 +73,7 @@ languages:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 380 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -133,7 +133,7 @@ R                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 19:00:18 UTC
+ Last Updated on 01/01/2026 19:02:00 UTC
 <!--END_SECTION:waka-->
 
 </p>
