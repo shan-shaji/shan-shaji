@@ -40,7 +40,7 @@ languages:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#7](https://github.com/shan-shaji/ansi-escapes-dart/issues/7) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+1. ℹ️ Assigned issue [#7](https://github.com/shan-shaji/ansi-escapes-dart/issues/7) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
 2. 🗣 Commented on [#7](https://github.com/shan-shaji/ansi-escapes-dart/issues/7#issuecomment-3678750524) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
 3. 🚀 Published release [v2.0.1](https://github.com/shan-shaji/ansi-escapes-dart/releases/tag/v2.0.1) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
 4. 🗣 Commented on [#4](https://github.com/shan-shaji/ansi-escapes-dart/pull/4#issuecomment-3678073566) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
