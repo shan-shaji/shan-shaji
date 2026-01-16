@@ -65,9 +65,9 @@ languages:
     <p>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C329%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C335%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -140,7 +140,7 @@ R                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2026 19:13:18 UTC
+ Last Updated on 16/01/2026 19:06:57 UTC
 <!--END_SECTION:waka-->
 
 </p>
