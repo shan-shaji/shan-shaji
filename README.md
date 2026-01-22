@@ -67,7 +67,7 @@ languages:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C335%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -108,21 +108,16 @@ Sunday                   4099 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Rust                     5 hrs 41 mins       ████████████████████████░   96.77 % 
-Makefile                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-proxmox-datacenter-manage5 hrs 12 mins       ██████████████████████░░░   88.46 % 
-proxmox-backup           40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -138,7 +133,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2026 19:14:57 UTC
+ Last Updated on 22/01/2026 19:11:31 UTC
 <!--END_SECTION:waka-->
 
 </p>
