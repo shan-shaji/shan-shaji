@@ -52,11 +52,11 @@ languages:
 ### 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🔧 Flutter Clean Architecture - Fast Feature-First Setup Guide](https://dev.to/shanshaji/flutter-clean-architecture-fast-feature-first-setup-guide-342l)
-- [Create Flavors for Flutter App - iOS](https://dev.to/shanshaji/create-flavors-for-flutter-app-ios-fnl)
-- [The Art of Inferring with Large Language Models](https://dev.to/shanshaji/the-art-of-inferring-with-large-language-models-243m)
-- [Iterative Prompt Development: Iteratively analyse and refine your prompts](https://dev.to/shanshaji/iterative-prompt-development-iteratively-analyse-and-refine-your-prompts-3ibl)
-- [Principle 2 of Writing Effective Prompts for Large Language Models: Give Them Time to Think](https://dev.to/shanshaji/principle-2-of-writing-effective-prompts-for-large-language-models-give-them-time-to-think-25j3)
+- [🔧 Flutter Clean Architecture - Fast Feature-First Setup Guide](https://music.forem.com/shanshaji/flutter-clean-architecture-fast-feature-first-setup-guide-342l)
+- [Create Flavors for Flutter App - iOS](https://music.forem.com/shanshaji/create-flavors-for-flutter-app-ios-fnl)
+- [The Art of Inferring with Large Language Models](https://music.forem.com/shanshaji/the-art-of-inferring-with-large-language-models-243m)
+- [Iterative Prompt Development: Iteratively analyse and refine your prompts](https://music.forem.com/shanshaji/iterative-prompt-development-iteratively-analyse-and-refine-your-prompts-3ibl)
+- [Principle 2 of Writing Effective Prompts for Large Language Models: Give Them Time to Think](https://music.forem.com/shanshaji/principle-2-of-writing-effective-prompts-for-large-language-models-give-them-time-to-think-25j3)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
