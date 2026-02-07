@@ -108,18 +108,16 @@ Sunday                   4099 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Rust                     1 hr 26 mins        █████████████████████████   99.97 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-proxmox-datacenter-manage1 hr 14 mins        ██████████████████████░░░   87.09 % 
-proxmox                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -135,7 +133,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2026 19:22:06 UTC
+ Last Updated on 07/02/2026 19:08:48 UTC
 <!--END_SECTION:waka-->
 
 </p>
