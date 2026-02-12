@@ -67,7 +67,7 @@ languages:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C337%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -108,16 +108,16 @@ Sunday                   4100 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     40 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+proxmox-datacenter-manage40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -133,7 +133,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 19:43:18 UTC
+ Last Updated on 12/02/2026 19:42:18 UTC
 <!--END_SECTION:waka-->
 
 </p>
