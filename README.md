@@ -40,9 +40,9 @@ languages:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4042265122) in [yewstack/yew](https://github.com/yewstack/yew)
-2. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4040189491) in [yewstack/yew](https://github.com/yewstack/yew)
-3. 🚀 Published release [v2.0.1](https://github.com/shan-shaji/ansi-escapes-dart/releases/tag/v2.0.1) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+1. 🗣 Commented on [#769](https://github.com/knowsys/nemo/issues/769#issuecomment-4093856125) in [knowsys/nemo](https://github.com/knowsys/nemo)
+2. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4042265122) in [yewstack/yew](https://github.com/yewstack/yew)
+3. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4040189491) in [yewstack/yew](https://github.com/yewstack/yew)
 4. 🗣 Commented on [#4](https://github.com/shan-shaji/ansi-escapes-dart/pull/4#issuecomment-3678073566) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
 5. 🔒 Closed issue [#6](https://github.com/shan-shaji/ansi-escapes-dart/issues/6) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
 <!--END_SECTION:activity-->
