@@ -108,16 +108,16 @@ Sunday                   3990 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tu_wien_assignments      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -133,7 +133,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2026 19:16:27 UTC
+ Last Updated on 30/03/2026 19:43:24 UTC
 <!--END_SECTION:waka-->
 
 </p>
