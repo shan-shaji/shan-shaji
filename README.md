@@ -40,8 +40,8 @@ languages:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4042265122) in [yewstack/yew](https://github.com/yewstack/yew)
-2. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4040189491) in [yewstack/yew](https://github.com/yewstack/yew)
+1. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4160913331) in [yewstack/yew](https://github.com/yewstack/yew)
+2. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4042265122) in [yewstack/yew](https://github.com/yewstack/yew)
 3. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4040189491) in [yewstack/yew](https://github.com/yewstack/yew)
 4. 🗣 Commented on [#4](https://github.com/shan-shaji/ansi-escapes-dart/pull/4#issuecomment-3678073566) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
 5. 🔒 Closed issue [#6](https://github.com/shan-shaji/ansi-escapes-dart/issues/6) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
