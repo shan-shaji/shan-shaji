@@ -40,11 +40,11 @@ languages:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4161431458) in [yewstack/yew](https://github.com/yewstack/yew)
-2. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4160913331) in [yewstack/yew](https://github.com/yewstack/yew)
-3. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4042265122) in [yewstack/yew](https://github.com/yewstack/yew)
-4. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4040189491) in [yewstack/yew](https://github.com/yewstack/yew)
-5. 🔒 Closed issue [#6](https://github.com/shan-shaji/ansi-escapes-dart/issues/6) in [shan-shaji/ansi-escapes-dart](https://github.com/shan-shaji/ansi-escapes-dart)
+1. 🗣 Commented on [#1442](https://github.com/dart-lang/http/issues/1442#issuecomment-4205558225) in [dart-lang/http](https://github.com/dart-lang/http)
+2. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4161431458) in [yewstack/yew](https://github.com/yewstack/yew)
+3. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4160913331) in [yewstack/yew](https://github.com/yewstack/yew)
+4. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4042265122) in [yewstack/yew](https://github.com/yewstack/yew)
+5. 🗣 Commented on [#3979](https://github.com/yewstack/yew/issues/3979#issuecomment-4040189491) in [yewstack/yew](https://github.com/yewstack/yew)
 <!--END_SECTION:activity-->
 
 ---
