@@ -40,11 +40,11 @@ languages:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4215813169) in [yewstack/yew](https://github.com/yewstack/yew)
-2. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4215363335) in [yewstack/yew](https://github.com/yewstack/yew)
-3. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4214168816) in [yewstack/yew](https://github.com/yewstack/yew)
-4. 🗣 Commented on [#1442](https://github.com/dart-lang/http/issues/1442#issuecomment-4205558225) in [dart-lang/http](https://github.com/dart-lang/http)
-5. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4161431458) in [yewstack/yew](https://github.com/yewstack/yew)
+1. 💪 Opened PR [#4127](https://github.com/yewstack/yew/pull/4127) in [yewstack/yew](https://github.com/yewstack/yew)
+2. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4215813169) in [yewstack/yew](https://github.com/yewstack/yew)
+3. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4215363335) in [yewstack/yew](https://github.com/yewstack/yew)
+4. 🗣 Commented on [#4083](https://github.com/yewstack/yew/issues/4083#issuecomment-4214168816) in [yewstack/yew](https://github.com/yewstack/yew)
+5. 🗣 Commented on [#1442](https://github.com/dart-lang/http/issues/1442#issuecomment-4205558225) in [dart-lang/http](https://github.com/dart-lang/http)
 <!--END_SECTION:activity-->
 
 ---
