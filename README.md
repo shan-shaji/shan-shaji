@@ -1,15 +1,4 @@
-<h2 align="center">👋 Hello! I'm Shan.</h2>
-<p align="center">
-  <a href="https://dev.to/shanshaji">Blog</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=shan__shaji">Twitter</a>
-</p>
 
-<p align="center"><a href="https://twitter.com/intent/follow?screen_name=shan__shaji"><img src="https://img.shields.io/twitter/follow/shan__shaji?style=flat" alt="Twitter Follow"></a>
-<a href="https://www.linkedin.com/in/shan-shaji/"><img src="https://img.shields.io/badge/shan-shaji?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/shan-shaji/" alt="Linkedin: anmol"></a>
-<img src="https://img.shields.io/github/followers/shan-shaji?label=Follow&amp;style=social" alt="GitHub followers">
-<a href="http://shan-shaji.github.io/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&amp;style=flat-square&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=http://shan-shaji.github.io/" alt="website"></a></p>
-
-<hr>
 
 <!-- README.md -->
 
