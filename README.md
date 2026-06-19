@@ -22,21 +22,6 @@ Role: Software Engineer
 Current Focus: Python 🐍 | Rust 🦀
 ```
 
-## ⚙️ > tech-stack --list
-
-```yaml
-languages:
-  - Dart
-  - TypeScript
-  - Python
-  - Rust
-  - C
-  - C++
-  - Perl
-  - R
-```
----
-
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
