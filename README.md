@@ -8,7 +8,7 @@
 Name: Shan Shaji
 Pronouns: He/Him
 Role: Software Engineer
-Current Focus: Python 🐍 | Rust 🦀
+Current Focus: Rust 🦀| 🐧 Linux 
 ```
 
 ### ⚡ Recent Activity
