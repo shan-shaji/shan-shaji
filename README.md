@@ -14,8 +14,8 @@ Current Focus: Rust 🦀| 🐧 Linux
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1125](https://github.com/juliansteenbakker/flutter_secure_storage/issues/1125#issuecomment-5012958100) in [juliansteenbakker/flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage)
-2. 🗣 Commented on [#4141](https://github.com/yewstack/yew/pull/4141#issuecomment-4640586275) in [yewstack/yew](https://github.com/yewstack/yew)
+1. 💪 Opened PR [#2042](https://github.com/dart-lang/http/pull/2042) in [dart-lang/http](https://github.com/dart-lang/http)
+2. 🗣 Commented on [#1920](https://github.com/dart-lang/http/issues/1920#issuecomment-6466579496) in [dart-lang/http](https://github.com/dart-lang/http)
 3. 💪 Opened PR [#4141](https://github.com/yewstack/yew/pull/4141) in [yewstack/yew](https://github.com/yewstack/yew)
 4. ❌ Closed PR [#4127](https://github.com/yewstack/yew/pull/4127) in [yewstack/yew](https://github.com/yewstack/yew)
 5. 💪 Opened PR [#4127](https://github.com/yewstack/yew/pull/4127) in [yewstack/yew](https://github.com/yewstack/yew)
